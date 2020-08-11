@@ -1,7 +1,8 @@
 // write your code below!
 
-Function happyHolidays
- 
+Function happyHolidays(){
+returnstring("Happy holidays"!)
+}
 Function happyHolidaysTo(name) {
   return string(`Happy holidays + ${name}!` )
 }
