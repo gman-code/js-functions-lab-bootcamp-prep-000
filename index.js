@@ -1,11 +1,11 @@
 // write your code below!
 
-function happyHolidays
+{"happyHolidays"}
 
-Function happyHolidaysTo(jon) {
-  return string(`Happy holidays + ${name}!` )
+function happyHolidaysTo(sam) {
+  return string (`Happy holidays , ${name}!` )
 }
-Function happyCustomHolidayTo({holiday}, {jon}) {
+Function happyCustomHolidayTo({date}, {name}) {
   return string(`Happy ${holiday}, ${name}!`)
 }
 Function holidayCountdown({holiday}, {days}) {
