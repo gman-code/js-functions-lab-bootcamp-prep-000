@@ -1,11 +1,11 @@
 // write your code below!
 
- "happy Holidays!":
- 
-Function happyHolidaysTo(name) {
+function happyHolidays
+
+Function happyHolidaysTo(jon) {
   return string(`Happy holidays + ${name}!` )
 }
-Function happyCustomHolidayTo({holiday}, {name}) {
+Function happyCustomHolidayTo({holiday}, {jon}) {
   return string(`Happy ${holiday}, ${name}!`)
 }
 Function holidayCountdown({holiday}, {days}) {
