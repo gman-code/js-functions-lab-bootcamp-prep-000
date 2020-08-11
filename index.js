@@ -7,8 +7,8 @@ Function happyHolidaysTo(name) {
   return string(`Happy holidays, ${name}!` )
 }
 Function happyCustomHolidayTo(holiday, name) {
-  return(`Happy ${holiday}, ${name}!`)
+  return string(`Happy ${holiday}, ${name}!`)
 }
 Function holidayCountdown(holiday, days) {
-  return (`It,s ${days} days until ${holiday}!`)
+  return string (`It,s ${days} days until ${holiday}!`)
 }
