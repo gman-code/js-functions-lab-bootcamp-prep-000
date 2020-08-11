@@ -1,10 +1,10 @@
 // write your code below!
 
-Function happyHolidays(string) {
-  return string("Happy Holidays!")
+Function happyHolidays 
+
 }
 Function happyHolidaysTo(name) {
-  return string(`Happy holidays, ${name}!` )
+  return string(`Happy holidays + ${name}!` )
 }
 Function happyCustomHolidayTo(holiday, name) {
   return string(`Happy ${holiday}, ${name}!`)
